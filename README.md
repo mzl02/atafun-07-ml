@@ -12,3 +12,14 @@ python3 -m venv .venv
 Activate Sandbox:
 source .venv/bin/activate
 
+added requirements.txt
+
+added dependencies
+
+jupyterlab
+numpy
+pandas
+pyarrow
+matplotlib
+seaborn
+scipy
